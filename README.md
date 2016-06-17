@@ -6,5 +6,5 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 
 # DEVOLPER 
-# @MEDOO_313_M
-# @NEW_SUPP
+ @MEDOO_313_M
+ @NEW_SUPP
